@@ -18,7 +18,7 @@ See the [list of official and community plugins](/docs/plugins/)
 
 ## Tools
 
-* [Develop & Build GatsbyJS static sites within Docker](https://github.com/aripalo/gatsby-docker/)
+* [`gatsby-docker` - Develop & Build GatsbyJS static sites within Docker](https://github.com/aripalo/gatsby-docker/)
 
 ## Videos
 
